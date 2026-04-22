@@ -1,8 +1,92 @@
 [
   {
-    "title": "Benvenuto su VCO Trasporti",
-    "date": "22/04/2026",
-    "description": "Le news vengono aggiornate automaticamente ogni 3 giorni dallo scraper. Controlla l'elenco per le ultime comunicazioni di VCO Trasporti.",
+    "title": "FERMATA FERROVIA VERBANIA FONDOTOCE",
+    "date": "10/03/2026",
+    "description": "Spostamento temporaneo",
+    "url": "https://www.vcotrasporti.it/it/news.php"
+  },
+  {
+    "title": "FESTA DEGLI AGRUMI CANNERO RIVIERA 2026",
+    "date": "24/02/2026",
+    "description": "ORARI CORSE AGGIUNTIVE LINEA 3 VERBANIA - BRISSAGO",
+    "url": "https://www.vcotrasporti.it/it/news.php"
+  },
+  {
+    "title": "ORARI NAVETTA CARNEVALE CANNOBIO 2026",
+    "date": "18/02/2026",
+    "description": "ORARI NAVETTA CARNEVALE CANNOBIO 2026",
+    "url": "https://www.vcotrasporti.it/it/news.php"
+  },
+  {
+    "title": "AVVISO PUBBLICO",
+    "date": "11/02/2026",
+    "description": "Invito a presentare candidature per la nomina del collegio sindacale della società VCOTRASPORTI SRL per il triennio 2026-2028",
+    "url": "https://www.vcotrasporti.it/it/news.php"
+  },
+  {
+    "title": "SCIOPERO NAZIONALE GIORNO 12 DICEMBRE 2025",
+    "date": "03/12/2025",
+    "description": "Comunicato Stampa Sciopero Nazionale 12 dicembre 2025",
+    "url": "https://www.vcotrasporti.it/it/news.php"
+  },
+  {
+    "title": "TRENINO POLAR EXPRESS Verbania",
+    "date": "28/11/2025",
+    "description": "dal 29 novembre 2025 al 6 gennaio 2026",
+    "url": "https://www.vcotrasporti.it/it/news.php"
+  },
+  {
+    "title": "AVVISO: DOMENICA 09/11/2025 PERCORSO LINEA VERBANIA-OMEGNA-VERBANIA",
+    "date": "07/11/2025",
+    "description": "09/11/2025 Variazione del percorso linea Verbania-Omegna-Verbania",
+    "url": "https://www.vcotrasporti.it/it/news.php"
+  },
+  {
+    "title": "SCIOPERO NAZIONALE GIORNO 3 OTTOBRE 2025",
+    "date": "02/10/2025",
+    "description": "Comunicato stampa per sciopero Nazionale proclamato dalla Confederazione Nazionale CGIL",
+    "url": "https://www.vcotrasporti.it/it/news.php"
+  },
+  {
+    "title": "MODIFICA PERCORSO LINEA VERBANIA - OMEGNA",
+    "date": "05/09/2025",
+    "description": "SABATO 06.09.2025",
+    "url": "https://www.vcotrasporti.it/it/news.php"
+  },
+  {
+    "title": "TRENINO DELLA BELLEZZA",
+    "date": "31/08/2025",
+    "description": "DOMENICA 31.08.2025 - sospensione del servizio",
+    "url": "https://www.vcotrasporti.it/it/news.php"
+  },
+  {
+    "title": "SERVIZIO GRATUITO BUS NAVETTA 14 AGOSTO 2025 - orari",
+    "date": "13/08/2025",
+    "description": "In occasione del Palio Remiero 2025 Pallanza",
+    "url": "https://www.vcotrasporti.it/it/news.php"
+  },
+  {
+    "title": "ORARI NAVETTA NOTTE BIANCA VERBANIA",
+    "date": "08/08/2025",
+    "description": "9-10 AGOSTO 2025",
+    "url": "https://www.vcotrasporti.it/it/news.php"
+  },
+  {
+    "title": "AVVISO : AUMENTO TARIFFE TITOLI DI VIAGGIO",
+    "date": "18/06/2025",
+    "description": "Si informa che dal 1 luglio 2025 entreranno in vigore le nuove tariffe per i servizi di Trasporto Pubblico Locale",
+    "url": "https://www.vcotrasporti.it/it/news.php"
+  },
+  {
+    "title": "AVVISO",
+    "date": "13/06/2025",
+    "description": "Spostamento fermata Intra Imbarcadero V. direzione Trobaso",
+    "url": "https://www.vcotrasporti.it/it/news.php"
+  },
+  {
+    "title": "AVVISO UTENTI",
+    "date": "28/04/2025",
+    "description": "emissione abbonamenti trasporto pubblico a Omegna",
     "url": "https://www.vcotrasporti.it/it/news.php"
   }
 ]
