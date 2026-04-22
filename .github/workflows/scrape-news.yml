@@ -1,0 +1,41 @@
+name: Scrape VCO News
+
+on:
+  schedule:
+    # Ogni 3 giorni alle 6:00 UTC
+    - cron: '0 6 */3 * *'
+  workflow_dispatch: # Permette di eseguirla manualmente da GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 lxml
+
+      - name: Run scraper
+        run: python scripts/scrape_news.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          if git diff --staged --quiet; then
+            echo "Nessuna modifica da committare."
+          else
+            git commit -m "chore: aggiornamento news $(date -u +%Y-%m-%d)"
+            git push
+          fi
