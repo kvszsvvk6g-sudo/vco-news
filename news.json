@@ -1,5 +1,11 @@
 [
   {
+    "title": "FERMATA VERBANIA FERROVIA FONDOTOCE",
+    "date": "23/04/2026",
+    "description": "Spostamento temporaneo",
+    "url": "https://www.vcotrasporti.it/it/news.php"
+  },
+  {
     "title": "FERMATA FERROVIA VERBANIA FONDOTOCE",
     "date": "10/03/2026",
     "description": "Spostamento temporaneo",
@@ -81,12 +87,6 @@
     "title": "AVVISO",
     "date": "13/06/2025",
     "description": "Spostamento fermata Intra Imbarcadero V. direzione Trobaso",
-    "url": "https://www.vcotrasporti.it/it/news.php"
-  },
-  {
-    "title": "AVVISO UTENTI",
-    "date": "28/04/2025",
-    "description": "emissione abbonamenti trasporto pubblico a Omegna",
     "url": "https://www.vcotrasporti.it/it/news.php"
   }
 ]
