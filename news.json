@@ -1,5 +1,11 @@
 [
   {
+    "title": "LAVORI COMUNE DI MERGOZZO",
+    "date": "30/04/2026",
+    "description": "Modifica percorso",
+    "url": "https://www.vcotrasporti.it/it/news.php"
+  },
+  {
     "title": "FERMATA VERBANIA FERROVIA FONDOTOCE",
     "date": "23/04/2026",
     "description": "Spostamento temporaneo",
@@ -81,12 +87,6 @@
     "title": "AVVISO : AUMENTO TARIFFE TITOLI DI VIAGGIO",
     "date": "18/06/2025",
     "description": "Si informa che dal 1 luglio 2025 entreranno in vigore le nuove tariffe per i servizi di Trasporto Pubblico Locale",
-    "url": "https://www.vcotrasporti.it/it/news.php"
-  },
-  {
-    "title": "AVVISO",
-    "date": "13/06/2025",
-    "description": "Spostamento fermata Intra Imbarcadero V. direzione Trobaso",
     "url": "https://www.vcotrasporti.it/it/news.php"
   }
 ]
