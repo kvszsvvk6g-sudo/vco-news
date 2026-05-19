@@ -1,5 +1,11 @@
 [
   {
+    "title": "GIRO D'ITALIA",
+    "date": "19/05/2026",
+    "description": "Servizio nella giornata del 22.05.2025",
+    "url": "https://www.vcotrasporti.it/it/news.php"
+  },
+  {
     "title": "LAVORI COMUNE DI MERGOZZO",
     "date": "07/05/2026",
     "description": "Modifica percorso",
@@ -75,12 +81,6 @@
     "title": "SERVIZIO GRATUITO BUS NAVETTA 14 AGOSTO 2025 - orari",
     "date": "13/08/2025",
     "description": "In occasione del Palio Remiero 2025 Pallanza",
-    "url": "https://www.vcotrasporti.it/it/news.php"
-  },
-  {
-    "title": "ORARI NAVETTA NOTTE BIANCA VERBANIA",
-    "date": "08/08/2025",
-    "description": "9-10 AGOSTO 2025",
     "url": "https://www.vcotrasporti.it/it/news.php"
   }
 ]
