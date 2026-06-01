@@ -1,5 +1,17 @@
 [
   {
+    "title": "TRENINO DELLA BELLEZZA",
+    "date": "01/06/2026",
+    "description": "Servizio estivo turistico Verbania",
+    "url": "https://www.vcotrasporti.it/it/news.php"
+  },
+  {
+    "title": "FESTA DELLA REPUBBLICA",
+    "date": "01/06/2026",
+    "description": "Modifica percorso",
+    "url": "https://www.vcotrasporti.it/it/news.php"
+  },
+  {
     "title": "GIRO D'ITALIA",
     "date": "19/05/2026",
     "description": "Servizio nella giornata del 22.05.2025",
@@ -69,18 +81,6 @@
     "title": "MODIFICA PERCORSO LINEA VERBANIA - OMEGNA",
     "date": "05/09/2025",
     "description": "SABATO 06.09.2025",
-    "url": "https://www.vcotrasporti.it/it/news.php"
-  },
-  {
-    "title": "TRENINO DELLA BELLEZZA",
-    "date": "31/08/2025",
-    "description": "DOMENICA 31.08.2025 - sospensione del servizio",
-    "url": "https://www.vcotrasporti.it/it/news.php"
-  },
-  {
-    "title": "SERVIZIO GRATUITO BUS NAVETTA 14 AGOSTO 2025 - orari",
-    "date": "13/08/2025",
-    "description": "In occasione del Palio Remiero 2025 Pallanza",
     "url": "https://www.vcotrasporti.it/it/news.php"
   }
 ]
