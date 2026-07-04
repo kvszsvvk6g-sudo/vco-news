@@ -1,5 +1,11 @@
 [
   {
+    "title": "AVVISO : AUMENTO TARIFFE TITOLI DI VIAGGIO",
+    "date": "01/07/2026",
+    "description": "Si informa che dal 1 luglio 2026 entreranno in vigore le nuove tariffe per i servizi di Trasporto Pubblico Locale",
+    "url": "https://www.vcotrasporti.it/it/news.php"
+  },
+  {
     "title": "TRENINO DELLA BELLEZZA",
     "date": "01/06/2026",
     "description": "Servizio estivo turistico Verbania",
@@ -75,12 +81,6 @@
     "title": "SCIOPERO NAZIONALE GIORNO 3 OTTOBRE 2025",
     "date": "02/10/2025",
     "description": "Comunicato stampa per sciopero Nazionale proclamato dalla Confederazione Nazionale CGIL",
-    "url": "https://www.vcotrasporti.it/it/news.php"
-  },
-  {
-    "title": "MODIFICA PERCORSO LINEA VERBANIA - OMEGNA",
-    "date": "05/09/2025",
-    "description": "SABATO 06.09.2025",
     "url": "https://www.vcotrasporti.it/it/news.php"
   }
 ]
